@@ -4,12 +4,12 @@ Project description. Description of this (technical) project and the project its
 
 Date: March 2018
 
-Researchers: 
+Researcher(s): 
 
 - name of researcher 1 (researcher.1@uu.nl)
 - name of researcher 2 (researcher.2@uu.nl)
 
-RSE: 
+Research Software Engineer(s): 
 
 - name of RSE 1 (researcher.1@uu.nl)
 - name of RSE 2 (researcher.2@uu.nl)
