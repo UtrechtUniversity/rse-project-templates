@@ -13,7 +13,7 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [Usage](#usage)
-    - [R subsection](#r-subsection)
+    - [Subsection](#subsection)
   - [Links](#links)
   - [Contributing](#contributing)
   - [Notes](#notes)
@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Project
 
-**Project description**. Description of this (technical) project and the project itself.
+**Project description**. Description of this (technical) project and of the project itself.
 
 **Date**: Month Year
 
@@ -38,23 +38,26 @@
 
 ### Built with
 
-This section should list any major frameworks that you built your project using.
+This section should list any major frameworks used to build this project.
 
-- []()
-- []()
+- [Framework 1](exampleframework.com)
+- [Framework 2](exampleframework.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Guide to get a local copy of this project up and running.
 
 ### Prerequisites
 
-To install and run this project you need to have python the following prerequisites installed.
+To install and run this project you need to have the following prerequisites installed.
+
+- PostgreSQL
+- Python
 
 ### Installation
 
-The run the project, ensure to install the following tools and dependencies.
+To run the project, ensure to install the project's dependencies.
 
 ```sh
 pip install -r requirements.txt
@@ -63,29 +66,22 @@ pip install -r requirements.txt
 <!-- USAGE -->
 ## Usage
 
-This section describes how to run the project. Use screenshots (on MacOS the combination `shift+cmd+4` and `spacebar` creates great screenshots).
+This section describes how to run the project. It is highly recommended to use screenshots (on MacOS the combination `shift+cmd+4` and `spacebar` creates great screenshots).
 
-### R subsection
+### Subsection
 
-To run the R script, go to the command line of terminal and navigate to
-the project folder. In this folder, execute the following command: 
+Remember to divide the [Usage](#Usage) section in subsections for clarity.
 
-
-```sh 
-R CMD example.R 
+```sh
+python -m example.py
 ```
-
-Option 2: 
-
-Go to Rstudio and set you working directory to the project folder. Run all
-code in the file `example.R`.
 
 _For more examples, please refer to the [Documentation](sphinx-doc-website)_
 
 <!-- LINKS -->
 ## Links
 
-An overview of interesting links.
+An overview of interesting links related to the project.
 
 - [Install R and Rstudio on MAC](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)
 - [Install Anaconda Python](https://www.anaconda.com/download/)
@@ -93,7 +89,9 @@ An overview of interesting links.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+To contribute:
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
