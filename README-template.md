@@ -2,6 +2,8 @@
 
 # Project Title
 
+Description of this (technical) project and of the project itself.
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -21,8 +23,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-
-**Project description**. Description of this (technical) project and of the project itself.
 
 **Date**: Month Year
 
