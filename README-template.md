@@ -2,6 +2,10 @@
 
 # Project Title
 
+<!-- Include Github badges here (optional) -->
+<!-- e.g. Github Actions workflow status -->
+![workflow name](https://github.com/UtrechtUniversity/<REPOSITORY>/workflows/<WORKFLOW_NAME_OR_FILE_PATH>/badge.svg)
+
 Description of this (technical) project and of the project itself.
 
 <!-- TABLE OF CONTENTS -->
@@ -11,6 +15,8 @@ Description of this (technical) project and of the project itself.
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
     - [Built with](#built-with)
+    - [License](#license)
+    - [Attribution and academic use](#attribution-and-academic-use)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -42,6 +48,24 @@ This section should list any major frameworks used to build this project.
 
 - [Framework 1](exampleframework.com)
 - [Framework 2](exampleframework.com)
+
+<!-- Do not forget to also include the license in a separate file(LICENSE[.txt/.md]) and link it properly. -->
+### License
+
+The code in this project is released under [License name](LICENSE).
+
+### Attribution and academic use
+
+What to include here depends on the project type.
+
+If a paper has been published introducing this code, include a reference to that paper:
+[Example](https://github.com/OceanParcels/parcels#parcels-manuscript-and-code)
+
+If the software has been published on its own, include a reference to that:
+[Example](https://github.com/asreview/asreview#citation)
+
+If a dataset has been published from this repository, include a persistent link to the dataset:
+[Example](https://github.com/J535D165/CoronaWatchNL#license-and-academic-use)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -99,7 +123,7 @@ To contribute:
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- CONTACT -->
+<!-- NOTES -->
 ## Notes
 
 Additional notes on the project can be left here.
