@@ -1,4 +1,5 @@
-# rse-try-out
+# RSE project templates
+
 Repository for developing RSE-style templates
 
 ## README.md templates
