@@ -6,21 +6,25 @@ The name (and most of the structure) are derived from the paper [Good Enough Pra
 
 ## Requirements
 
-Install `cookiecutter` on the command line: `pip install cookiecutter`    
+Install `cookiecutter` on the command line:
+
+* `pip install cookiecutter`
 
 ## Usage
 
 To start a new science project:
 
-`cookiecutter gh:UtrechtUniversity/rse-project-templates/good-enough-project`
+`cookiecutter gh:UtrechtUniversity/rse-project-templates/good-enough-project -o output/directory/`
+
+The `-o` option allows you to specify the output directory in which the project will be created.
 
 ## Project Structure
 
 The project structure distinguishes three kinds of folders:
-- read-only (RO): not edited by either code or researcher
-- human-writeable (HW): edited by the researcher only.
-- project-generated (PG): folders generated when running the code; these folders can be deleted or emptied and will be completely reconstituted as the project is run.
 
+* Read-Only (RO): not edited by either code or researcher.
+* Guman-Writeable (HW): edited by the researcher only.
+* Project-Generated (PG): folders generated when running the code; these folders can be deleted or emptied and will be completely reconstituted as the project is run.
 
 ```
 .
@@ -45,7 +49,6 @@ The project structure distinguishes three kinds of folders:
 └── src                <- Source code for this project (HW)
 
 ```
-
 
 ## License
 
