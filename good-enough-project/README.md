@@ -14,7 +14,10 @@ Install `cookiecutter` on the command line:
 
 To start a new science project:
 
-`cookiecutter gh:UtrechtUniversity/rse-project-templates/good-enough-project -o output/directory/`
+```
+git clone https://github.com/UtrechtUniversity/rse-project-templates.git
+cookiecutter ./rse-project-templates/good-enough-project -o output/directory/
+```
 
 The `-o` option allows you to specify the output directory in which the project will be created.
 
