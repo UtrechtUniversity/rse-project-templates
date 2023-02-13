@@ -4,7 +4,7 @@
 <!-- e.g. Github Actions workflow status -->
 ![workflow name](https://github.com/UtrechtUniversity/<REPOSITORY>/workflows/<WORKFLOW_NAME_OR_FILE_PATH>/badge.svg)
 
-Description of this (technical) project and of the project itself.
+Include a short description of the repository/project here (few sentences)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -17,6 +17,7 @@ Description of this (technical) project and of the project itself.
   - [Usage](#usage)
     - [Subsection](#subsection)
   - [About the Project](#about-the-project)
+    - [Description](#description)  
     - [License](#license)
     - [Attribution and academic use](#attribution-and-academic-use)
   - [Contributing](#contributing)
@@ -72,6 +73,8 @@ _For more examples, please refer to the [Documentation](sphinx-doc-website)_
 - Name of RSE 1 (rse.1@uu.nl)
 - Name of RSE 2 (rse.2@uu.nl)
 
+<!-- A more elaborate description about the project/software (compared to the top of this page) can be included here-->
+### Description
 
 <!-- Do not forget to also include the license in a separate file(LICENSE[.txt/.md]) and link it properly. -->
 ### License
