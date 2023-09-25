@@ -10,7 +10,7 @@ An example usage of this template can be found in the [RemindoAPI](https://githu
 
 ## Python project templates
 Find our python project template repositories using the links below:
-- [Simple Python project](https://github.com/UtrechtUniversity/re-simple-python-project)
+- [Simple Python project](https://github.com/UtrechtUniversity/re-simple-project-template)
 - [Python package](https://github.com/UtrechtUniversity/re-python-package)
 ## Cookiecutter Research Engineering project (programming language independent)
 
